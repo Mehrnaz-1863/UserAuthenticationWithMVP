@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserAuthenticationWithMVP</string>
+    <string name="email"> email </string>
+    <string name="send_code"> send_code </string>
+    <string name="code"> code </string>
+    <string name="confirm"> confirm </string>
+    <string name="wrong_email">wrong_email </string>
+</resources>
